@@ -30,4 +30,3 @@ This day planner consists of time blocks for a standard workday of 9am - 5pm. Th
 
 In the entry field users can type in text, and save it to their local storage by clicking the blue save button to the right. Upon refreshing the page the data will persist until the user deletes and saves again.
 
-The background color of the entry area changes according to the time of the day at the user's location. A background color of green indicates time in the future, the color orange indicates the current hour of the day, and the color gray indicates that those time slots are now in the past.
